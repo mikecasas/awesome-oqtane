@@ -1,10 +1,14 @@
-
-[<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true" align="right" width="300">](https://oqtane.org)
 # Awesome Oqtane
+
 
 > A collection of awesome Oqtane resources.
 
-[Oqtane](https://oqtane.org) is a modular application framework for Blazor.
+
+
+[<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true">](https://oqtane.org)
+
+## [Oqtane](https://oqtane.org) is a modular application framework for Blazor.
+
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
 
