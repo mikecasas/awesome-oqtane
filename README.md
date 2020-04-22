@@ -10,7 +10,7 @@
 ## [Oqtane](https://oqtane.org) is a modular application framework for Blazor.
 
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
+
 
 
 ## Contents
@@ -34,6 +34,10 @@ Get invloved with Oqtane is an open source project with its source code hosted o
 
 ## Articles
 * [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
+
+
+## Contributions 
+Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 
 ## Credits
