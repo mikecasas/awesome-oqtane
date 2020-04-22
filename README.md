@@ -4,13 +4,9 @@
 > A collection of awesome Oqtane resources.
 
 
-
 [<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true">](https://oqtane.org)
 
 ## [Oqtane](https://oqtane.org) is a modular application framework for Blazor.
-
-
-
 
 
 ## Contents
@@ -18,18 +14,16 @@
 * [Articles](#articles)
 * [Credits](#credits)
 
-
 ## Introduction
 
 ### What is Oqtane
 Oqtane is a modular application framework built on top of Blazor. Blazor is a .NET web framework that lets you build interactive web UIs using C# instead of JavaScript. More information on the [official Blazor website](https://blazor.net).
 
 ### Open Source
-Oqtane is an open source project with its source code hosted on [Github](https://github.com/oqtane/oqtane.framework)
-
+Oqtane is an open source project with its source code hosted on [Github](https://github.com/oqtane/oqtane.framework).
 
 ### Community
-Get invloved with Oqtane is an open source project with its source code hosted on [Github](https://github.com/oqtane/oqtane.framework)
+Get invloved with Oqtane. Join the discussion at (https://gitter.im/oqtane/community).
 
 
 ## Articles
@@ -41,7 +35,7 @@ Contributions from the community are always welcome! Please take a look at the [
 
 
 ## Credits
-Awesome Oqtane is based upon the great Blazor resource by Adrien Torris [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
+Awesome Oqtane is based upon the great Blazor resource by Adrien Torris [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor).
 
 
 ## License
