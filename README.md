@@ -1,10 +1,7 @@
 # Awesome Oqtane
 Resources for [Oqtane](https://oqtane.org)
 
-![Oqtane](https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true "Oqtane")
-
-[<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
-
+[<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true" align="right" width="170">](https://oqtane.org)
 
 > A collection of awesome Oqtane resources.
 
