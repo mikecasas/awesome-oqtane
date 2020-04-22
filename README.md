@@ -12,6 +12,9 @@
 ## Contents
 * [Introduction](#introduction)
 * [Articles](#articles)
+* [Videos](#videos)
+* [Modules](#modules)
+* [Themes](#themes)
 * [Credits](#credits)
 
 ## Introduction
@@ -25,12 +28,17 @@ Oqtane is an open source project with its source code hosted on [Github](https:/
 ### Community
 Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/community.
 
-
 ## Articles
 * [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
 
 ## Videos
-* [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 22, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
+* [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 21, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
+
+## Modules
+* [Blog](https://github.com/oqtane/oqtane.module.blogs).
+
+## Themes
+* [Custom](https://github.com/oqtane/oqtane.theme.custom).
 
 ## Contributions 
 Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
