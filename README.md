@@ -29,13 +29,8 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 ## Articles
 * [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
 
-
-
-Blazor: Blazing a Trail for .NET Web Developers Shaun Walker - April 22, 2020
-
-https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be
-
-
+## Videos
+* [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 22, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
 
 ## Contributions 
 Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
