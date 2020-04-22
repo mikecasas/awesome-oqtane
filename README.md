@@ -1,7 +1,6 @@
 # Awesome Oqtane
-Resources for [Oqtane](https://oqtane.org)
-
 [<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true" align="right" width="300">](https://oqtane.org)
+
 
 > A collection of awesome Oqtane resources.
 
