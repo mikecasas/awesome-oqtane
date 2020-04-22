@@ -4,6 +4,8 @@ Resources for [Oqtane](https://oqtane.org)
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 ![Oqtane](https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true "Oqtane")
 
+[<img src="github.com/oqtane/framework/blob/master/oqtane.png?raw=true" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
+
 
 > A collection of awesome Oqtane resources.
 
