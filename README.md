@@ -35,7 +35,7 @@ Contributions from the community are always welcome! Please take a look at the [
 
 
 ## Credits
-Awesome Oqtane is based upon the great Blazor resource by Adrien Torris [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor).
+Awesome Oqtane is based upon the great Blazor resource [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) by Adrien Torris.
 
 
 ## License
