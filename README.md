@@ -60,5 +60,7 @@ Awesome Oqtane is based upon the great Blazor resource [Awesome Blazor](https://
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Mike Casas has waived all copyright and related or neighboring rights to this work.## Follow
+To the extent possible under law, Mike Casas has waived all copyright and related or neighboring rights to this work.
+
+## Follow
 Follow us on Twitter at [Twitter - Awesome Oqtane](https://twitter.com/awesomeoqtane).
