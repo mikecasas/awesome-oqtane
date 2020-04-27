@@ -15,6 +15,7 @@
 * [Videos](#videos)
 * [Modules](#modules)
 * [Themes](#themes)
+* [Questions](#questions)
 * [Credits](#credits)
 
 ## Introduction
@@ -29,6 +30,10 @@ Oqtane is an open source project with its source code hosted on [Github](https:/
 Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/community.
 
 ## Articles
+
+* [What is Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4359/What-is-Blazor-Oqtane.aspx) - October 13, 2019 - What is Blazor Oqtane.
+* [Creating a Hello World Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4330/Creating-a-Hello-World-Module-For-Blazor-Oqtane.aspx) - October 17, 2019 - Creating a Hello World Module For Blazor Oqtane.
+* [Creating a Database Driven Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4331/Creating-a-Database-Driven-Module-For-Blazor-Oqtane.aspx) - November 17, 2019 - Creating a Database Driven Module For Blazor Oqtane.
 * [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
 
 ## Videos
@@ -43,6 +48,8 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 ## Contributions 
 Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
 
+## Questions
+Feel free to open a new issue if you have any questions regarding Oqtane.
 
 ## Credits
 Awesome Oqtane is based upon the great Blazor resource [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) by Adrien Torris.
