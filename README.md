@@ -45,6 +45,7 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 ## Modules
 * [Blog](https://github.com/oqtane/oqtane.module.blogs).
 * [FAQ](https://github.com/jimspillane/JimS.FAQs.Module).
+* [Customer](https://github.com/mikecasas/oqtane-customers).
 
 ## Themes
 * [Custom](https://github.com/oqtane/oqtane.theme.custom).
