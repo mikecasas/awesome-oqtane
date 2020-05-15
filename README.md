@@ -16,6 +16,7 @@
 * [Modules](#modules)
 * [Themes](#themes)
 * [Tools](#tools)
+* [Podcasts](#podcasts)
 * [Questions](#questions)
 * [Credits](#credits)
 * [Follow](#follow)
@@ -50,6 +51,9 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 
 ## Tools
 * [Oqtane Loader](https://github.com/chlupac/Oqtane.Loader).
+
+## Podcasts
+* [State of Blazor (and some Oqtane)](http://azuredevopspodcast.clear-measure.com/michael-washington-on-the-state-of-blazor-episode-88).
 
 ## Contributions 
 Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/mikecasas/awesome-oqtane/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/mikecasas/awesome-oqtane/graphs/contributors), you're awesome and wouldn't be possible without you!
