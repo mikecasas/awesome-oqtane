@@ -38,6 +38,7 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 * [Creating a Hello World Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4330/Creating-a-Hello-World-Module-For-Blazor-Oqtane.aspx) - October 17, 2019 - Creating a Hello World Module For Blazor Oqtane.
 * [Creating a Database Driven Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4331/Creating-a-Database-Driven-Module-For-Blazor-Oqtane.aspx) - November 17, 2019 - Creating a Database Driven Module For Blazor Oqtane.
 * [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
+* [Installing Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4377/Installing-Blazor-Oqtane.aspx) - May 26, 2020 - Installing Blazor Oqtane.
 
 ## Videos
 * [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 21, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
