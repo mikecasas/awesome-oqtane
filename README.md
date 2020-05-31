@@ -6,7 +6,7 @@
 
 [<img src="https://github.com/oqtane/framework/blob/master/oqtane.png?raw=true">](https://oqtane.org)
 
-## [Oqtane](https://oqtane.org) is a modular application framework for Blazor.
+## [Oqtane](https://oqtane.org) is a modular application framework for Blazor. All official communication is through the (https://oqtane.org) website. A great source of information is the official [Oqtane Blog](https://www.oqtane.org/Resources/Blog)
 
 
 ## Contents
