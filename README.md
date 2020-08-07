@@ -44,7 +44,7 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 * [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 21, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
 
 ## Modules
-* [Blog](https://github.com/oqtane/oqtane.module.blogs).
+* [Blog](https://github.com/oqtane/oqtane.blogs).
 * [FAQ](https://github.com/jimspillane/JimS.FAQs.Module).
 * [Customer](https://github.com/mikecasas/oqtane-customers).
 * [Product](https://github.com/mikecasas/oqtane-products).
