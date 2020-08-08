@@ -34,11 +34,10 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 
 ## Articles
 
-* [What is Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4359/What-is-Blazor-Oqtane.aspx) - October 13, 2019 - What is Blazor Oqtane.
-* [Creating a Hello World Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4330/Creating-a-Hello-World-Module-For-Blazor-Oqtane.aspx) - October 17, 2019 - Creating a Hello World Module For Blazor Oqtane.
-* [Creating a Database Driven Module For Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4331/Creating-a-Database-Driven-Module-For-Blazor-Oqtane.aspx) - November 17, 2019 - Creating a Database Driven Module For Blazor Oqtane.
-* [Oqtane Module Creator](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4374/Oqtane-Module-Creator.aspx) - April 12, 2020 - Oqtane Module Creator.
-* [Installing Blazor Oqtane](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4377/Installing-Blazor-Oqtane.aspx) - May 26, 2020 - Installing Blazor Oqtane.
+* [What is Blazor Oqtane](https://blazorhelpwebsite.com/ViewBlogPost/16) - October 13, 2019 - What is Blazor Oqtane.
+* [Configuring The Blazor Oqtane Blog Module](https://blazorhelpwebsite.com/ViewBlogPost/15) - October 21, 2019 - Configuring The Blazor Oqtane Blog Module.
+* [Oqtane Module Creator](https://blazorhelpwebsite.com/ViewBlogPost/4) - April 12, 2020 - Oqtane Module Creator.
+* [Installing Blazor Oqtane](https://blazorhelpwebsite.com/ViewBlogPost/1) - May 26, 2020 - Installing Blazor Oqtane.
 
 ## Videos
 * [Oqtane - Rocket Fuel for Blazor](https://www.twitch.tv/videos/695241610) - July 2020 - Shaun Walker.
