@@ -52,7 +52,7 @@ Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/commun
 * [Report Viewer](https://github.com/mikecasas/oqtane-report-viewer).
 
 ## Themes
-* [Custom](https://github.com/oqtane/oqtane.theme.custom).
+* [Custom](https://github.com/oqtane/oqtane.theme.cerulean).
 
 ## Tools
 * [Oqtane Loader](https://github.com/chlupac/Oqtane.Loader).
