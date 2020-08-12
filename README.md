@@ -30,7 +30,7 @@ Oqtane is a modular application framework built on top of Blazor. Blazor is a .N
 Oqtane is an open source project with its source code hosted on [Github](https://github.com/oqtane/oqtane.framework).
 
 ### Community
-Get invloved with Oqtane. Join the discussion at https://gitter.im/oqtane/community.
+Get invloved with Oqtane. Join the discussion at https://github.com/oqtane/oqtane.framework/discussions
 
 ## Articles
 
