@@ -40,6 +40,7 @@ Get invloved with Oqtane. Join the discussion at https://github.com/oqtane/oqtan
 * [Installing Blazor Oqtane](https://blazorhelpwebsite.com/ViewBlogPost/1) - May 26, 2020 - Installing Blazor Oqtane.
 
 ## Videos
+* [Oqtane - SQL in Docker](https://www.youtube.com/watch?v=9x_6yPAxp7g) - August 2020 - Mike Casas.
 * [Oqtane - Rocket Fuel for Blazor](https://www.twitch.tv/videos/695241610) - July 2020 - Shaun Walker.
 * [Oqtane Module Development Series](https://www.youtube.com/playlist?list=PLYhXmd7yV0elLNLfQwZBUlM7ZSMYPTZ_f) - July 21, 2020 - Shaun Walker.
 * [Blazor: Blazing a Trail for .NET Web Developers](https://www.youtube.com/watch?reload=9&v=oRbdjmBhYpE&feature=youtu.be) - April 21, 2020 - Shaun Walker (Oqtane discussion begins at 54:25).
